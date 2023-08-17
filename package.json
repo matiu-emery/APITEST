@@ -1,0 +1,24 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiu-emery/APITEST.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiu-emery/APITEST/issues"
+  },
+  "homepage": "https://github.com/matiu-emery/APITEST#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
